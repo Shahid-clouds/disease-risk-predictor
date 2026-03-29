@@ -46,7 +46,7 @@ streamlit run app.py
 
 ## 🌐 Live Demo
 
-[View on Streamlit Cloud](#) ← add your link after deploying
+[View on Streamlit Cloud](https://disease-risk-predictor.streamlit.app/) 
 
 ## ⚠️ Disclaimer
 
